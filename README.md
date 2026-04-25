@@ -1,24 +1,32 @@
-# README
+# EarlyQueue
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+EarlyQueue is a simple waitlist and validation tool that helps founders collect early users, track demand, and grow through referrals before launch.
 
-Things you may want to cover:
+---
 
-* Ruby version
+## Features
 
-* System dependencies
+- Create waitlist campaigns
+- Public signup page
+- Referral system (move up the queue)
+- Basic analytics (signups, referrals)
+- CSV export
+- Fake door validation (track interest before building)
 
-* Configuration
+---
 
-* Database creation
+## Tech Stack
 
-* Database initialization
+- Ruby on Rails (API)
+- React (Frontend)
+- PostgreSQL
 
-* How to run the test suite
+---
 
-* Services (job queues, cache servers, search engines, etc.)
+## Getting Started
 
-* Deployment instructions
+### Clone the repo
 
-* ...
+```bash
+git clone https://github.com/ali-shakeel-dev/earlyqueue.git
+cd earlyqueue
